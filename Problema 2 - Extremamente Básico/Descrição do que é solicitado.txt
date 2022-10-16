@@ -1,0 +1,7 @@
+1º Leia 2 valores inteiros e armazene-os nas variáveis A e B.
+2º Efetue a soma de A e B atribuindo o seu resultado na variável X.
+3º Imprima X. Não apresente mensagem alguma além daquilo que está sendo especificado.
+4º Não esqueça de imprimir o fim de linha após o resultado, caso contrário, você receberá "Presentation Error".
+5º A entrada deve conter 2 valores inteiros.
+6º Imprima a mensagem "X = " (letra X maiúscula) seguido pelo valor da variável X e pelo final de linha.
+7º Cuide para que tenha um espaço antes e depois do sinal de igualdade, conforme o exemplo abaixo.
